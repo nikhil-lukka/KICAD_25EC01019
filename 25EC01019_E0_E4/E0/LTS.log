@@ -1,0 +1,6 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Lukka Nikhil Chandra\OneDrive\Documents\KiCad\PROJECTS\25EC01019\LTspice\LTS.net
+Start Time: Sun Nov 15 21:16:11 2026
+C:\Users\Lukka Nikhil Chandra\OneDrive\Documents\KiCad\PROJECTS\25EC01019\LTspice\LTS.net(7): This model has multiple definitions. (Note: If you wish to allow this, add ".OPTIONS ALLOW_AMBIGUOUS_MODELS" to your netlist.)
+D§LED led 0 D
+            ^
